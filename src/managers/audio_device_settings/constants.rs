@@ -1,0 +1,7 @@
+pub static HIFIBERRY_CARD_NAME: &str = "hifiberry";
+pub static HIFIBERRY_LEFT_INPUT_SELECTOR_CONTROL_NAME: &str = "ADC Left Input";
+pub static HIFIBERRY_RIGHT_INPUT_SELECTOR_CONTROL_NAME: &str = "ADC Right Input";
+pub static HIFIBERRY_MIC_BIAS_CONTROL_NAME: &str = "ADC Mic Bias";
+pub static HIFIBERRY_INPUT_GAIN_CONTROL_NAME: &str = "ADC";
+pub static HIFIBERRY_OUTPUT_CONTROL_NAME: &str = "Digital";
+pub static HIFIBERRY_INPUT_SELECTOR_UNBALANCED_VALUE: u32 = 1;
